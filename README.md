@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrushn9118&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harikrushn9118&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
